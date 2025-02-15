@@ -1,14 +1,10 @@
-# package.json
+# Recruitment Fairness Analyzer
+This is the frontend demo of the Recruitment Fairness Analyzer built with Vue.js. The backend demo is built seperately with FastAPI and Nexa LLM API.
 
-This template should help get you started developing with Vue 3 in Vite.
+## Demo
+The video demo of the project can be found [here](https://drive.google.com/file/d/1Eq7PDiLj3LPuD6R2LmWDzht7SKIlREEE/view?usp=share_link).
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+![Image of the project](public/demo.png)
 
 ## Project Setup
 
