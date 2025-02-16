@@ -4,7 +4,7 @@ This is the frontend demo of the Recruitment Fairness Analyzer built with Vue.js
 ## Demo
 The video demo of the project can be found [here](https://drive.google.com/file/d/1Eq7PDiLj3LPuD6R2LmWDzht7SKIlREEE/view?usp=share_link).
 
-![Image of the project](public/demo.png)
+![Demo Image](public/demo.png)
 
 ## Project Setup
 
